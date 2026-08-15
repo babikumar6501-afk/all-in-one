@@ -29,13 +29,13 @@ const animeData = [
 
     category: "Movies",
 
-    title: "Neon Horizon",
+    title: "Balan The Boy 2026",
 
     poster:
       "https://image.tmdb.org/t/p/original/7H0KRnM0aZS5BHjoZBxriitYSvJ.jpg",
 
     banner:
-      "https://placehold.co/1600x700/100d18/ece7ff?text=Neon+Horizon",
+      "https://image.tmdb.org/t/p/original/7H0KRnM0aZS5BHjoZBxriitYSvJ.jpg",
 
     description:
       "A fictional sci-fi adventure created for demonstrating the CineVerse catalog.",
