@@ -32,7 +32,7 @@ const animeData = [
     title: "Neon Horizon",
 
     poster:
-      "https://placehold.co/600x900/171321/ece7ff?text=Neon+Horizon",
+      "https://image.tmdb.org/t/p/original/7H0KRnM0aZS5BHjoZBxriitYSvJ.jpg",
 
     banner:
       "https://placehold.co/1600x700/100d18/ece7ff?text=Neon+Horizon",
