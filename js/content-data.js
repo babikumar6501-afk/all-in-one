@@ -70,13 +70,13 @@ const animeData = [
     downloads: {
 
       "480p":
-        "https://example.com/legal/neon-horizon-480p",
+        "https://gofile.io/d/IfH8zunW",
 
       "720p":
-        "https://example.com/legal/neon-horizon-720p",
+        "https://gofile.io/d/j0byoTGi",
 
       "1080p":
-        "https://example.com/legal/neon-horizon-1080p"
+        "https://gofile.io/d/oVUAoI4u",
 
     }
 
